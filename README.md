@@ -1,1 +1,1 @@
-# BlazorApp
+# Event Ease App

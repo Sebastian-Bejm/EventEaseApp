@@ -1053,10 +1053,6 @@ C:\Users\Sebastian\Documents\Post-BTech\Microsoft Front End Dev Program\EventEas
 C:\Users\Sebastian\Documents\Post-BTech\Microsoft Front End Dev Program\EventEaseApp\EventEase\EventEase\obj\Debug\net9.0\refint\EventEase.dll
 C:\Users\Sebastian\Documents\Post-BTech\Microsoft Front End Dev Program\EventEaseApp\EventEase\EventEase\obj\Debug\net9.0\EventEase.pdb
 C:\Users\Sebastian\Documents\Post-BTech\Microsoft Front End Dev Program\EventEaseApp\EventEase\EventEase\obj\Debug\net9.0\ref\EventEase.dll
-C:\Users\Sebastian\Documents\Post-BTech\Microsoft Front End Dev Program\EventEaseApp\EventEase\EventEase\bin\Debug\net9.0\wwwroot\_framework\EventEase.j324nti8xp.pdb
-C:\Users\Sebastian\Documents\Post-BTech\Microsoft Front End Dev Program\EventEaseApp\EventEase\EventEase\bin\Debug\net9.0\wwwroot\_framework\EventEase.ew0sp65rnc.wasm
-C:\Users\Sebastian\Documents\Post-BTech\Microsoft Front End Dev Program\EventEaseApp\EventEase\EventEase\bin\Debug\net9.0\wwwroot\_framework\EventEase.ew0sp65rnc.wasm.gz
-C:\Users\Sebastian\Documents\Post-BTech\Microsoft Front End Dev Program\EventEaseApp\EventEase\EventEase\bin\Debug\net9.0\wwwroot\_framework\EventEase.j324nti8xp.pdb.gz
 C:\Users\Sebastian\Documents\Post-BTech\Microsoft Front End Dev Program\EventEaseApp\EventEase\EventEase\obj\Debug\net9.0\compressed\z1ekdz4m32-t1cqhe9u97.gz
 C:\Users\Sebastian\Documents\Post-BTech\Microsoft Front End Dev Program\EventEaseApp\EventEase\EventEase\obj\Debug\net9.0\compressed\vi7czabjyp-sejl45xvog.gz
 C:\Users\Sebastian\Documents\Post-BTech\Microsoft Front End Dev Program\EventEaseApp\EventEase\EventEase\obj\Debug\net9.0\compressed\sszaqvbbpn-xvp3kq03qx.gz
@@ -1079,6 +1075,10 @@ C:\Users\Sebastian\Documents\Post-BTech\Microsoft Front End Dev Program\EventEas
 C:\Users\Sebastian\Documents\Post-BTech\Microsoft Front End Dev Program\EventEaseApp\EventEase\EventEase\obj\Debug\net9.0\compressed\ycajwe1o3t-8vyfqsqgz1.gz
 C:\Users\Sebastian\Documents\Post-BTech\Microsoft Front End Dev Program\EventEaseApp\EventEase\EventEase\obj\Debug\net9.0\compressed\recpsf0r6v-nd16qlqaep.gz
 C:\Users\Sebastian\Documents\Post-BTech\Microsoft Front End Dev Program\EventEaseApp\EventEase\EventEase\obj\Debug\net9.0\compressed\pnpqtioew0-4d85u1mtcx.gz
-C:\Users\Sebastian\Documents\Post-BTech\Microsoft Front End Dev Program\EventEaseApp\EventEase\EventEase\obj\Debug\net9.0\compressed\gqx5ofl3a7-ew0sp65rnc.gz
-C:\Users\Sebastian\Documents\Post-BTech\Microsoft Front End Dev Program\EventEaseApp\EventEase\EventEase\obj\Debug\net9.0\compressed\lw84d9mf51-j324nti8xp.gz
-C:\Users\Sebastian\Documents\Post-BTech\Microsoft Front End Dev Program\EventEaseApp\EventEase\EventEase\obj\Debug\net9.0\compressed\pqrel3z3dc-cwcqbhg0vj.gz
+C:\Users\Sebastian\Documents\Post-BTech\Microsoft Front End Dev Program\EventEaseApp\EventEase\EventEase\bin\Debug\net9.0\wwwroot\_framework\EventEase.a9an05wbl7.pdb
+C:\Users\Sebastian\Documents\Post-BTech\Microsoft Front End Dev Program\EventEaseApp\EventEase\EventEase\bin\Debug\net9.0\wwwroot\_framework\EventEase.4hjanzlpl2.wasm
+C:\Users\Sebastian\Documents\Post-BTech\Microsoft Front End Dev Program\EventEaseApp\EventEase\EventEase\bin\Debug\net9.0\wwwroot\_framework\EventEase.4hjanzlpl2.wasm.gz
+C:\Users\Sebastian\Documents\Post-BTech\Microsoft Front End Dev Program\EventEaseApp\EventEase\EventEase\bin\Debug\net9.0\wwwroot\_framework\EventEase.a9an05wbl7.pdb.gz
+C:\Users\Sebastian\Documents\Post-BTech\Microsoft Front End Dev Program\EventEaseApp\EventEase\EventEase\obj\Debug\net9.0\compressed\gqx5ofl3a7-4hjanzlpl2.gz
+C:\Users\Sebastian\Documents\Post-BTech\Microsoft Front End Dev Program\EventEaseApp\EventEase\EventEase\obj\Debug\net9.0\compressed\lw84d9mf51-a9an05wbl7.gz
+C:\Users\Sebastian\Documents\Post-BTech\Microsoft Front End Dev Program\EventEaseApp\EventEase\EventEase\obj\Debug\net9.0\compressed\pqrel3z3dc-3nawtgz65w.gz
