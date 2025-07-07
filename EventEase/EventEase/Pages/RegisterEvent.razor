@@ -6,6 +6,8 @@
 @inject EventEase.Services.EventService EventService
 @inject NavigationManager Navigation
 
+<NavLink href="/events" class="btn btn-secondary mb-3">← Back to Event List</NavLink>
+
 <h3>Add New Event</h3>
 
 <EditForm Model="@newEvent" OnValidSubmit="HandleValidSubmit">

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bbag7th06eNBErNFYlLmXQRYA991mm4HT2Jiye54Qi8=",
+  "Hash": "2Ue68HKdILOP1dN6mzH76mW4L1+1tc0j7DRDsirJJFk=",
   "Source": "EventEase",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "js1pavx4hu",
-      "Integrity": "rfQQ8PZbWAyHwvmkaonvSGkiEX/73hLJc/HUYfuTdTA=",
+      "Fingerprint": "e4ke94ag41",
+      "Integrity": "Xjbu3TX8kxF1ail0txDAaghJQvpqr+JBYFVscmwYDPg=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -199,8 +199,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "b5xhhxpym7",
-      "Integrity": "8VhhbF4HK3qcRzPqQnFeBjw3EmDsagIdcu4K6JTl6cU=",
+      "Fingerprint": "q0rorwz7g5",
+      "Integrity": "ygkx3Rf1Fm15OHm0AfxxjI35FMCSsUiEv5p59JUe/yA=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\EventEase.pdb"
@@ -220,8 +220,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "q48ojgaln4",
-      "Integrity": "KlK7uWL0fiBZgqd1ZE4QN1zM28yrOytRzKASvOpwbpI=",
+      "Fingerprint": "flu8tvutvq",
+      "Integrity": "44XvAK7D8e5EWMiS81eKmPQpp+/7Kt2G7F2doLj1Vrc=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Sebastian\\Documents\\Post-BTech\\Microsoft Front End Dev Program\\EventEaseApp\\EventEase\\EventEase\\obj\\Debug\\net9.0\\webcil\\EventEase.wasm"
@@ -6632,12 +6632,12 @@
       "OriginalItemSpec": "C:\\Users\\Sebastian\\Documents\\Post-BTech\\Microsoft Front End Dev Program\\EventEaseApp\\EventEase\\EventEase\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Net.WebProxy.wasm"
     },
     {
-      "Identity": "C:\\Users\\Sebastian\\Documents\\Post-BTech\\Microsoft Front End Dev Program\\EventEaseApp\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\gqx5ofl3a7-q48ojgaln4.gz",
+      "Identity": "C:\\Users\\Sebastian\\Documents\\Post-BTech\\Microsoft Front End Dev Program\\EventEaseApp\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\gqx5ofl3a7-flu8tvutvq.gz",
       "SourceId": "EventEase",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Sebastian\\Documents\\Post-BTech\\Microsoft Front End Dev Program\\EventEaseApp\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/EventEase#[.{fingerprint=q48ojgaln4}]!.wasm.gz",
+      "RelativePath": "_framework/EventEase#[.{fingerprint=flu8tvutvq}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6646,8 +6646,8 @@
       "RelatedAsset": "C:\\Users\\Sebastian\\Documents\\Post-BTech\\Microsoft Front End Dev Program\\EventEaseApp\\EventEase\\EventEase\\bin\\Debug\\net9.0\\wwwroot\\_framework\\EventEase.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "kmya6byjaa",
-      "Integrity": "zH8HCv0zWkdxApcBdcz1YKRC8pCWwPCeb5RUwu5S31s=",
+      "Fingerprint": "o2vajoi38h",
+      "Integrity": "0O5TkFNV5C5qTyYHo0ycTcIdc0/Kvqtfw1/TKjpFbyE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Sebastian\\Documents\\Post-BTech\\Microsoft Front End Dev Program\\EventEaseApp\\EventEase\\EventEase\\bin\\Debug\\net9.0\\wwwroot\\_framework\\EventEase.wasm"
@@ -7451,12 +7451,12 @@
       "OriginalItemSpec": "C:\\Users\\Sebastian\\Documents\\Post-BTech\\Microsoft Front End Dev Program\\EventEaseApp\\EventEase\\EventEase\\bin\\Debug\\net9.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
     },
     {
-      "Identity": "C:\\Users\\Sebastian\\Documents\\Post-BTech\\Microsoft Front End Dev Program\\EventEaseApp\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\lw84d9mf51-b5xhhxpym7.gz",
+      "Identity": "C:\\Users\\Sebastian\\Documents\\Post-BTech\\Microsoft Front End Dev Program\\EventEaseApp\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\lw84d9mf51-q0rorwz7g5.gz",
       "SourceId": "EventEase",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Sebastian\\Documents\\Post-BTech\\Microsoft Front End Dev Program\\EventEaseApp\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/EventEase#[.{fingerprint=b5xhhxpym7}]!.pdb.gz",
+      "RelativePath": "_framework/EventEase#[.{fingerprint=q0rorwz7g5}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -7465,8 +7465,8 @@
       "RelatedAsset": "C:\\Users\\Sebastian\\Documents\\Post-BTech\\Microsoft Front End Dev Program\\EventEaseApp\\EventEase\\EventEase\\bin\\Debug\\net9.0\\wwwroot\\_framework\\EventEase.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "sh40z0205r",
-      "Integrity": "wDlgfIiDWr4+/HnX2KBZkEo32mgri8BiilXjQMNMIMo=",
+      "Fingerprint": "xj7qfhkvmz",
+      "Integrity": "QwTPV/e3XMLYrw6/4jhkF4y0W3IsRjiuzUimYnsoTMA=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Sebastian\\Documents\\Post-BTech\\Microsoft Front End Dev Program\\EventEaseApp\\EventEase\\EventEase\\bin\\Debug\\net9.0\\wwwroot\\_framework\\EventEase.pdb"
@@ -8018,7 +8018,7 @@
       "OriginalItemSpec": "C:\\Users\\Sebastian\\Documents\\Post-BTech\\Microsoft Front End Dev Program\\EventEaseApp\\EventEase\\EventEase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Sebastian\\Documents\\Post-BTech\\Microsoft Front End Dev Program\\EventEaseApp\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\pqrel3z3dc-js1pavx4hu.gz",
+      "Identity": "C:\\Users\\Sebastian\\Documents\\Post-BTech\\Microsoft Front End Dev Program\\EventEaseApp\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\pqrel3z3dc-e4ke94ag41.gz",
       "SourceId": "EventEase",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Sebastian\\Documents\\Post-BTech\\Microsoft Front End Dev Program\\EventEaseApp\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\",
@@ -8032,8 +8032,8 @@
       "RelatedAsset": "C:\\Users\\Sebastian\\Documents\\Post-BTech\\Microsoft Front End Dev Program\\EventEaseApp\\EventEase\\EventEase\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "vzxyfed9mj",
-      "Integrity": "Zaj7EzNMuRKvre180ex1xldK52gRAahwFjT5UxlrLyo=",
+      "Fingerprint": "gn7fvayhba",
+      "Integrity": "hOTqT65AMv+2JNgUxd5ejjJ/SEZaGIJ2MTyXmzCkXlA=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Sebastian\\Documents\\Post-BTech\\Microsoft Front End Dev Program\\EventEaseApp\\EventEase\\EventEase\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -10705,11 +10705,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rfQQ8PZbWAyHwvmkaonvSGkiEX/73hLJc/HUYfuTdTA=\""
+          "Value": "\"Xjbu3TX8kxF1ail0txDAaghJQvpqr+JBYFVscmwYDPg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 07 Jul 2025 19:19:11 GMT"
+          "Value": "Mon, 07 Jul 2025 19:35:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10719,13 +10719,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rfQQ8PZbWAyHwvmkaonvSGkiEX/73hLJc/HUYfuTdTA="
+          "Value": "sha256-Xjbu3TX8kxF1ail0txDAaghJQvpqr+JBYFVscmwYDPg="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\Sebastian\\Documents\\Post-BTech\\Microsoft Front End Dev Program\\EventEaseApp\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\pqrel3z3dc-js1pavx4hu.gz",
+      "AssetFile": "C:\\Users\\Sebastian\\Documents\\Post-BTech\\Microsoft Front End Dev Program\\EventEaseApp\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\pqrel3z3dc-e4ke94ag41.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -10744,11 +10744,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Zaj7EzNMuRKvre180ex1xldK52gRAahwFjT5UxlrLyo=\""
+          "Value": "\"hOTqT65AMv+2JNgUxd5ejjJ/SEZaGIJ2MTyXmzCkXlA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 07 Jul 2025 19:17:06 GMT"
+          "Value": "Mon, 07 Jul 2025 19:24:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10768,19 +10768,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"rfQQ8PZbWAyHwvmkaonvSGkiEX/73hLJc/HUYfuTdTA=\""
+          "Value": "W/\"Xjbu3TX8kxF1ail0txDAaghJQvpqr+JBYFVscmwYDPg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rfQQ8PZbWAyHwvmkaonvSGkiEX/73hLJc/HUYfuTdTA="
+          "Value": "sha256-Xjbu3TX8kxF1ail0txDAaghJQvpqr+JBYFVscmwYDPg="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\Sebastian\\Documents\\Post-BTech\\Microsoft Front End Dev Program\\EventEaseApp\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\pqrel3z3dc-js1pavx4hu.gz",
+      "AssetFile": "C:\\Users\\Sebastian\\Documents\\Post-BTech\\Microsoft Front End Dev Program\\EventEaseApp\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\pqrel3z3dc-e4ke94ag41.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10797,11 +10797,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Zaj7EzNMuRKvre180ex1xldK52gRAahwFjT5UxlrLyo=\""
+          "Value": "\"hOTqT65AMv+2JNgUxd5ejjJ/SEZaGIJ2MTyXmzCkXlA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 07 Jul 2025 19:17:06 GMT"
+          "Value": "Mon, 07 Jul 2025 19:24:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10819,7 +10819,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Zaj7EzNMuRKvre180ex1xldK52gRAahwFjT5UxlrLyo="
+          "Value": "sha256-hOTqT65AMv+2JNgUxd5ejjJ/SEZaGIJ2MTyXmzCkXlA="
         }
       ]
     },
@@ -12749,305 +12749,7 @@
       ]
     },
     {
-      "Route": "_framework/EventEase.b5xhhxpym7.pdb",
-      "AssetFile": "C:\\Users\\Sebastian\\Documents\\Post-BTech\\Microsoft Front End Dev Program\\EventEaseApp\\EventEase\\EventEase\\bin\\Debug\\net9.0\\wwwroot\\_framework\\EventEase.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "29188"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8VhhbF4HK3qcRzPqQnFeBjw3EmDsagIdcu4K6JTl6cU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Jul 2025 19:19:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "b5xhhxpym7"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/EventEase.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-8VhhbF4HK3qcRzPqQnFeBjw3EmDsagIdcu4K6JTl6cU="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/EventEase.b5xhhxpym7.pdb",
-      "AssetFile": "C:\\Users\\Sebastian\\Documents\\Post-BTech\\Microsoft Front End Dev Program\\EventEaseApp\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\lw84d9mf51-b5xhhxpym7.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000045890505"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "21790"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"wDlgfIiDWr4+/HnX2KBZkEo32mgri8BiilXjQMNMIMo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Jul 2025 19:19:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"8VhhbF4HK3qcRzPqQnFeBjw3EmDsagIdcu4K6JTl6cU=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "b5xhhxpym7"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/EventEase.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-8VhhbF4HK3qcRzPqQnFeBjw3EmDsagIdcu4K6JTl6cU="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/EventEase.b5xhhxpym7.pdb.gz",
-      "AssetFile": "C:\\Users\\Sebastian\\Documents\\Post-BTech\\Microsoft Front End Dev Program\\EventEaseApp\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\lw84d9mf51-b5xhhxpym7.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "21790"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"wDlgfIiDWr4+/HnX2KBZkEo32mgri8BiilXjQMNMIMo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Jul 2025 19:19:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "b5xhhxpym7"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/EventEase.pdb.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-wDlgfIiDWr4+/HnX2KBZkEo32mgri8BiilXjQMNMIMo="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/EventEase.pdb",
-      "AssetFile": "C:\\Users\\Sebastian\\Documents\\Post-BTech\\Microsoft Front End Dev Program\\EventEaseApp\\EventEase\\EventEase\\bin\\Debug\\net9.0\\wwwroot\\_framework\\EventEase.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "29188"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8VhhbF4HK3qcRzPqQnFeBjw3EmDsagIdcu4K6JTl6cU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Jul 2025 19:19:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-8VhhbF4HK3qcRzPqQnFeBjw3EmDsagIdcu4K6JTl6cU="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/EventEase.pdb",
-      "AssetFile": "C:\\Users\\Sebastian\\Documents\\Post-BTech\\Microsoft Front End Dev Program\\EventEaseApp\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\lw84d9mf51-b5xhhxpym7.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000045890505"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "21790"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"wDlgfIiDWr4+/HnX2KBZkEo32mgri8BiilXjQMNMIMo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Jul 2025 19:19:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"8VhhbF4HK3qcRzPqQnFeBjw3EmDsagIdcu4K6JTl6cU=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-8VhhbF4HK3qcRzPqQnFeBjw3EmDsagIdcu4K6JTl6cU="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/EventEase.pdb.gz",
-      "AssetFile": "C:\\Users\\Sebastian\\Documents\\Post-BTech\\Microsoft Front End Dev Program\\EventEaseApp\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\lw84d9mf51-b5xhhxpym7.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "21790"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"wDlgfIiDWr4+/HnX2KBZkEo32mgri8BiilXjQMNMIMo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Jul 2025 19:19:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-wDlgfIiDWr4+/HnX2KBZkEo32mgri8BiilXjQMNMIMo="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/EventEase.q48ojgaln4.wasm",
+      "Route": "_framework/EventEase.flu8tvutvq.wasm",
       "AssetFile": "C:\\Users\\Sebastian\\Documents\\Post-BTech\\Microsoft Front End Dev Program\\EventEaseApp\\EventEase\\EventEase\\bin\\Debug\\net9.0\\wwwroot\\_framework\\EventEase.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -13057,7 +12759,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "24341"
+          "Value": "25877"
         },
         {
           "Name": "Content-Type",
@@ -13065,11 +12767,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KlK7uWL0fiBZgqd1ZE4QN1zM28yrOytRzKASvOpwbpI=\""
+          "Value": "\"44XvAK7D8e5EWMiS81eKmPQpp+/7Kt2G7F2doLj1Vrc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 07 Jul 2025 19:19:10 GMT"
+          "Value": "Mon, 07 Jul 2025 19:35:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13079,7 +12781,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "q48ojgaln4"
+          "Value": "flu8tvutvq"
         },
         {
           "Name": "label",
@@ -13087,18 +12789,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-KlK7uWL0fiBZgqd1ZE4QN1zM28yrOytRzKASvOpwbpI="
+          "Value": "sha256-44XvAK7D8e5EWMiS81eKmPQpp+/7Kt2G7F2doLj1Vrc="
         }
       ]
     },
     {
-      "Route": "_framework/EventEase.q48ojgaln4.wasm",
-      "AssetFile": "C:\\Users\\Sebastian\\Documents\\Post-BTech\\Microsoft Front End Dev Program\\EventEaseApp\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\gqx5ofl3a7-q48ojgaln4.gz",
+      "Route": "_framework/EventEase.flu8tvutvq.wasm",
+      "AssetFile": "C:\\Users\\Sebastian\\Documents\\Post-BTech\\Microsoft Front End Dev Program\\EventEaseApp\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\gqx5ofl3a7-flu8tvutvq.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000094384143"
+          "Quality": "0.000090818273"
         }
       ],
       "ResponseHeaders": [
@@ -13108,15 +12810,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10594"
+          "Value": "11010"
         },
         {
           "Name": "ETag",
-          "Value": "\"zH8HCv0zWkdxApcBdcz1YKRC8pCWwPCeb5RUwu5S31s=\""
+          "Value": "\"0O5TkFNV5C5qTyYHo0ycTcIdc0/Kvqtfw1/TKjpFbyE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 07 Jul 2025 19:19:11 GMT"
+          "Value": "Mon, 07 Jul 2025 19:35:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13136,13 +12838,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"KlK7uWL0fiBZgqd1ZE4QN1zM28yrOytRzKASvOpwbpI=\""
+          "Value": "W/\"44XvAK7D8e5EWMiS81eKmPQpp+/7Kt2G7F2doLj1Vrc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "q48ojgaln4"
+          "Value": "flu8tvutvq"
         },
         {
           "Name": "label",
@@ -13150,13 +12852,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-KlK7uWL0fiBZgqd1ZE4QN1zM28yrOytRzKASvOpwbpI="
+          "Value": "sha256-44XvAK7D8e5EWMiS81eKmPQpp+/7Kt2G7F2doLj1Vrc="
         }
       ]
     },
     {
-      "Route": "_framework/EventEase.q48ojgaln4.wasm.gz",
-      "AssetFile": "C:\\Users\\Sebastian\\Documents\\Post-BTech\\Microsoft Front End Dev Program\\EventEaseApp\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\gqx5ofl3a7-q48ojgaln4.gz",
+      "Route": "_framework/EventEase.flu8tvutvq.wasm.gz",
+      "AssetFile": "C:\\Users\\Sebastian\\Documents\\Post-BTech\\Microsoft Front End Dev Program\\EventEaseApp\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\gqx5ofl3a7-flu8tvutvq.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13165,7 +12867,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10594"
+          "Value": "11010"
         },
         {
           "Name": "Content-Type",
@@ -13173,11 +12875,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zH8HCv0zWkdxApcBdcz1YKRC8pCWwPCeb5RUwu5S31s=\""
+          "Value": "\"0O5TkFNV5C5qTyYHo0ycTcIdc0/Kvqtfw1/TKjpFbyE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 07 Jul 2025 19:19:11 GMT"
+          "Value": "Mon, 07 Jul 2025 19:35:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13195,7 +12897,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "q48ojgaln4"
+          "Value": "flu8tvutvq"
         },
         {
           "Name": "label",
@@ -13203,7 +12905,305 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-zH8HCv0zWkdxApcBdcz1YKRC8pCWwPCeb5RUwu5S31s="
+          "Value": "sha256-0O5TkFNV5C5qTyYHo0ycTcIdc0/Kvqtfw1/TKjpFbyE="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/EventEase.pdb",
+      "AssetFile": "C:\\Users\\Sebastian\\Documents\\Post-BTech\\Microsoft Front End Dev Program\\EventEaseApp\\EventEase\\EventEase\\bin\\Debug\\net9.0\\wwwroot\\_framework\\EventEase.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29680"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ygkx3Rf1Fm15OHm0AfxxjI35FMCSsUiEv5p59JUe/yA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Jul 2025 19:35:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ygkx3Rf1Fm15OHm0AfxxjI35FMCSsUiEv5p59JUe/yA="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/EventEase.pdb",
+      "AssetFile": "C:\\Users\\Sebastian\\Documents\\Post-BTech\\Microsoft Front End Dev Program\\EventEaseApp\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\lw84d9mf51-q0rorwz7g5.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000045071438"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22186"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QwTPV/e3XMLYrw6/4jhkF4y0W3IsRjiuzUimYnsoTMA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Jul 2025 19:35:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ygkx3Rf1Fm15OHm0AfxxjI35FMCSsUiEv5p59JUe/yA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ygkx3Rf1Fm15OHm0AfxxjI35FMCSsUiEv5p59JUe/yA="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/EventEase.pdb.gz",
+      "AssetFile": "C:\\Users\\Sebastian\\Documents\\Post-BTech\\Microsoft Front End Dev Program\\EventEaseApp\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\lw84d9mf51-q0rorwz7g5.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22186"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QwTPV/e3XMLYrw6/4jhkF4y0W3IsRjiuzUimYnsoTMA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Jul 2025 19:35:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QwTPV/e3XMLYrw6/4jhkF4y0W3IsRjiuzUimYnsoTMA="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/EventEase.q0rorwz7g5.pdb",
+      "AssetFile": "C:\\Users\\Sebastian\\Documents\\Post-BTech\\Microsoft Front End Dev Program\\EventEaseApp\\EventEase\\EventEase\\bin\\Debug\\net9.0\\wwwroot\\_framework\\EventEase.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29680"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ygkx3Rf1Fm15OHm0AfxxjI35FMCSsUiEv5p59JUe/yA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Jul 2025 19:35:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q0rorwz7g5"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/EventEase.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ygkx3Rf1Fm15OHm0AfxxjI35FMCSsUiEv5p59JUe/yA="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/EventEase.q0rorwz7g5.pdb",
+      "AssetFile": "C:\\Users\\Sebastian\\Documents\\Post-BTech\\Microsoft Front End Dev Program\\EventEaseApp\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\lw84d9mf51-q0rorwz7g5.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000045071438"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22186"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QwTPV/e3XMLYrw6/4jhkF4y0W3IsRjiuzUimYnsoTMA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Jul 2025 19:35:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ygkx3Rf1Fm15OHm0AfxxjI35FMCSsUiEv5p59JUe/yA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q0rorwz7g5"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/EventEase.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ygkx3Rf1Fm15OHm0AfxxjI35FMCSsUiEv5p59JUe/yA="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/EventEase.q0rorwz7g5.pdb.gz",
+      "AssetFile": "C:\\Users\\Sebastian\\Documents\\Post-BTech\\Microsoft Front End Dev Program\\EventEaseApp\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\lw84d9mf51-q0rorwz7g5.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22186"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QwTPV/e3XMLYrw6/4jhkF4y0W3IsRjiuzUimYnsoTMA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Jul 2025 19:35:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q0rorwz7g5"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/EventEase.pdb.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QwTPV/e3XMLYrw6/4jhkF4y0W3IsRjiuzUimYnsoTMA="
         }
       ]
     },
@@ -13218,7 +13218,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "24341"
+          "Value": "25877"
         },
         {
           "Name": "Content-Type",
@@ -13226,11 +13226,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KlK7uWL0fiBZgqd1ZE4QN1zM28yrOytRzKASvOpwbpI=\""
+          "Value": "\"44XvAK7D8e5EWMiS81eKmPQpp+/7Kt2G7F2doLj1Vrc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 07 Jul 2025 19:19:10 GMT"
+          "Value": "Mon, 07 Jul 2025 19:35:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13240,18 +13240,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-KlK7uWL0fiBZgqd1ZE4QN1zM28yrOytRzKASvOpwbpI="
+          "Value": "sha256-44XvAK7D8e5EWMiS81eKmPQpp+/7Kt2G7F2doLj1Vrc="
         }
       ]
     },
     {
       "Route": "_framework/EventEase.wasm",
-      "AssetFile": "C:\\Users\\Sebastian\\Documents\\Post-BTech\\Microsoft Front End Dev Program\\EventEaseApp\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\gqx5ofl3a7-q48ojgaln4.gz",
+      "AssetFile": "C:\\Users\\Sebastian\\Documents\\Post-BTech\\Microsoft Front End Dev Program\\EventEaseApp\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\gqx5ofl3a7-flu8tvutvq.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000094384143"
+          "Quality": "0.000090818273"
         }
       ],
       "ResponseHeaders": [
@@ -13261,15 +13261,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10594"
+          "Value": "11010"
         },
         {
           "Name": "ETag",
-          "Value": "\"zH8HCv0zWkdxApcBdcz1YKRC8pCWwPCeb5RUwu5S31s=\""
+          "Value": "\"0O5TkFNV5C5qTyYHo0ycTcIdc0/Kvqtfw1/TKjpFbyE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 07 Jul 2025 19:19:11 GMT"
+          "Value": "Mon, 07 Jul 2025 19:35:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13289,19 +13289,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"KlK7uWL0fiBZgqd1ZE4QN1zM28yrOytRzKASvOpwbpI=\""
+          "Value": "W/\"44XvAK7D8e5EWMiS81eKmPQpp+/7Kt2G7F2doLj1Vrc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-KlK7uWL0fiBZgqd1ZE4QN1zM28yrOytRzKASvOpwbpI="
+          "Value": "sha256-44XvAK7D8e5EWMiS81eKmPQpp+/7Kt2G7F2doLj1Vrc="
         }
       ]
     },
     {
       "Route": "_framework/EventEase.wasm.gz",
-      "AssetFile": "C:\\Users\\Sebastian\\Documents\\Post-BTech\\Microsoft Front End Dev Program\\EventEaseApp\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\gqx5ofl3a7-q48ojgaln4.gz",
+      "AssetFile": "C:\\Users\\Sebastian\\Documents\\Post-BTech\\Microsoft Front End Dev Program\\EventEaseApp\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\gqx5ofl3a7-flu8tvutvq.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13310,7 +13310,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10594"
+          "Value": "11010"
         },
         {
           "Name": "Content-Type",
@@ -13318,11 +13318,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zH8HCv0zWkdxApcBdcz1YKRC8pCWwPCeb5RUwu5S31s=\""
+          "Value": "\"0O5TkFNV5C5qTyYHo0ycTcIdc0/Kvqtfw1/TKjpFbyE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 07 Jul 2025 19:19:11 GMT"
+          "Value": "Mon, 07 Jul 2025 19:35:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13340,7 +13340,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-zH8HCv0zWkdxApcBdcz1YKRC8pCWwPCeb5RUwu5S31s="
+          "Value": "sha256-0O5TkFNV5C5qTyYHo0ycTcIdc0/Kvqtfw1/TKjpFbyE="
         }
       ]
     },

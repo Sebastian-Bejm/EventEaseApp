@@ -4,6 +4,8 @@
 @using EventEase.Services
 @inject EventEase.Services.EventService EventService
 
+<NavLink href="/register-event" class="btn btn-primary mb-3">➕ Add New Event</NavLink>
+
 <h3>Upcoming Events</h3>
 
 @if (!EventService.GetEvents().Any())
