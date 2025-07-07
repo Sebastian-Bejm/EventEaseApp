@@ -1,6 +1,6 @@
 # Event Ease App
 
-Note: there is an issue that sometimes when trying to run the it will say a fatal error has occured.
+Note: there is an issue that sometimes happens when trying to run the app, it will say a fatal error has occured.
 To resolve this, go into the EventEase.csproj file and add the following line inside PropertyGroup:
 
 ```
@@ -18,5 +18,7 @@ Models
 Pages
 
 Services
+
+App.razor
 
 Program.cs
