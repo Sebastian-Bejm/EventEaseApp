@@ -6,7 +6,10 @@
     <NotFound>
         <PageTitle>Not found</PageTitle>
         <LayoutView Layout="@typeof(MainLayout)">
-            <p role="alert">Sorry, there's nothing at this address.</p>
+            <h3>🚫 Page Not Found</h3>
+            <p>Sorry, the page you're looking for doesn't exist.</p>
+
+            <NavLink href="/" class="btn btn-primary mt-3">🏠 Go to Home</NavLink>
         </LayoutView>
     </NotFound>
 </Router>
