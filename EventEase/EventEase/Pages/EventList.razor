@@ -2,7 +2,15 @@
 
 @using EventEase.Models
 @using EventEase.Services
+
 @inject EventEase.Services.EventService EventService
+@inject EventEase.Services.UserSessionService UserSession
+@inject EventEase.Services.AttendanceService AttendanceService
+
+@if (UserSession.IsUserLoggedIn)
+{
+    <p class="text-muted">👋 Welcome, @UserSession.GetUser()?.Name!</p>
+}
 
 <NavLink href="/register-event" class="btn btn-primary mb-3">➕ Add New Event</NavLink>
 
@@ -15,12 +23,30 @@
 else
 {
     <ul class="list-group">
-        @foreach (var ev in pagedEvents)
-        {
+        @foreach (var ev in pagedEvents) {
             <li class="list-group-item" @key="ev">
                 <strong>@ev.Name</strong><br />
                 📅 @ev.Date.ToShortDateString() <br />
-                📍 @ev.Location
+                📍 @ev.Location <br />
+
+                @if (UserSession.IsUserLoggedIn)
+                {
+                    <button class="btn btn-sm btn-outline-success mt-2"
+                        @onclick="() => AttendEvent(ev.Name)">
+                        ✅ Attend
+                    </button>
+                }
+
+                <p class="mt-2 mb-0 text-muted">
+                    👥 Attendees: @AttendanceService.GetAttendees(ev.Name).Count()
+                </p>
+
+                <ul class="mt-1">
+                    @foreach (var attendee in AttendanceService.GetAttendees(ev.Name)) {
+                        <li class="small">@attendee.UserName (@attendee.UserEmail)</li>
+                    }
+                </ul>
+
             </li>
         }
     </ul>
@@ -72,6 +98,15 @@ else
         {
             CurrentPage--;
             UpdatePagedEvents();
+        }
+    }
+
+    private void AttendEvent(string eventName)
+    {
+        var user = UserSession.GetUser();
+        if (user != null)
+        {
+            AttendanceService.RegisterAttendance(eventName, user);
         }
     }
 }

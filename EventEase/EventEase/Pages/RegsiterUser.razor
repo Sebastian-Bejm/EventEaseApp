@@ -1,0 +1,43 @@
+@page "/register-user"
+
+@using EventEase.Models
+@using EventEase.Services
+
+@inject NavigationManager Navigation
+@inject EventEase.Services.UserSessionService UserSession
+
+<h3>User Registration</h3>
+
+<EditForm Model="@user" OnValidSubmit="HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div class="mb-3">
+        <label>Name:</label>
+        <InputText @bind-Value="user.Name" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label>Email:</label>
+        <InputText @bind-Value="user.Email" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Register</button>
+</EditForm>
+
+@if (submitted)
+{
+    <p class="text-success mt-3">Welcome, @user.Name! 🎉</p>
+}
+
+@code {
+    private User user = new();
+    private bool submitted = false;
+
+    private void HandleValidSubmit()
+    {
+        UserSession.SetUser(user);
+        submitted = true;
+        Navigation.NavigateTo("/events");
+    }
+}
