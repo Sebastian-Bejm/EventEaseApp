@@ -1,7 +1,7 @@
 # Event Ease App
 
-Note: there is an issue that sometimes happens when trying to run the app, it will say a fatal error has occured.
-To resolve this, go into the EventEase.csproj file and add the following line inside PropertyGroup:
+Note: there is an issue that sometimes happens when trying to run the app after cloning the repo, it will say a fatal error was encountered, library hostpolicy.dll was not found.
+To resolve this, open the EventEase.csproj file and add the following line inside PropertyGroup:
 
 ```
 <PropertyGroup>
